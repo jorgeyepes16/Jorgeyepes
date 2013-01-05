@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JorgeYepes\Main.cs">
+    <Files>
+      <File FileName="JorgeYepes\Main.cs" Line="13" Column="23" />
+      <File FileName="JorgeYepes\TRegistro.cs" Line="148" Column="4" />
+      <File FileName="JorgeYepes\TFigura.cs" Line="7" Column="16" />
+      <File FileName="JorgeYepes\Triangulo.cs" Line="37" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="JorgeYepes" expanded="True">
+            <Node name="Main.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
